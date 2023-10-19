@@ -1,5 +1,5 @@
 
-![PRÉVIA (8)](https://github.com/camilyolivei/teladelogin/assets/120147200/f7904844-8c56-4dc7-865b-042a7a556904)
+![previa2](https://github.com/camilyolivei/teladelogin/assets/120147200/9e21eb72-a981-424d-86f4-e854b984433d)
 
 
 - [Visualizar site completo](https://camilyolivei.github.io/teladelogin/)<br/>
